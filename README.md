@@ -724,7 +724,7 @@ NiceMvvmProject 框架提供了完整的 MVVM 开发解决方案，包括：
 - [Kotlin 协程官方文档](https://kotlinlang.org/docs/coroutines-overview.html)
 - [Retrofit 官方文档](https://square.github.io/retrofit/)
 - [Room 数据库指南](https://developer.android.com/training/data-storage/room)
-- [GitHub 仓库](https://github.com/yourusername/NiceMvvmProject)
+- [GitHub 仓库]([https://github.com/yourusername/NiceMvvmProject](https://github.com/sweet-guy/NiceMvvmProject))
 
 ---
 
